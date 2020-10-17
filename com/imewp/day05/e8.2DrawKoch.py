@@ -1,6 +1,5 @@
 import turtle
 
-
 def koch(size, n):
     if n == 0:
         turtle.fd(size)
